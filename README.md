@@ -1,5 +1,6 @@
 redux-counter-app
 =====================
+example from https://github.com/reactjs/redux
 
 ### Usage
 
